@@ -1,0 +1,3 @@
+export ANSIBLE_NOCOWS=1
+export ANSIBLE_STDOUT_CALLBACK=debug
+
